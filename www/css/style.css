@@ -15,7 +15,7 @@ html,body {
 }
 
 #btn {
-  font-size: x-large;
+  font-size: 2em;
 }
 
 #btn::after {
